@@ -12,6 +12,6 @@
   * [test](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/)
 
 # new haze文件说明
-此文件为测试样张的整理数据集，仅供参考\
+此文件为测试样张的整理数据集，仅供参考
 # test-results文件说明
 此文件为对应“new haze”数据集处理后的图像对比
